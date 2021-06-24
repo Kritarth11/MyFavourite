@@ -1,0 +1,44 @@
+body{
+    background-color:aqua;
+}
+
+#para1{
+    font-size:80px;
+    font-family:fantasy;
+    color:darkmagenta;
+    text-align:center;
+}
+
+#para2{
+    font-size:60px;
+    text-align:center;
+    color:blue;
+}
+#para3{
+    font-size: 30;
+    color: darkgoldenrod;
+    text-align: center;
+}
+#para4{
+    font-size: 30;
+    color: crimson;
+    text-align: center;
+}
+#para5{
+    font-size: 30;
+    color: crimson;
+    text-align: center;
+}
+
+#para6{
+    text-align: center;
+    font-family: inherit;
+    font-size: 30;
+    color: crimson;
+}
+    
+    #para7{
+        color: coral;
+        font-size: 25;
+        text-align: center;
+    }
